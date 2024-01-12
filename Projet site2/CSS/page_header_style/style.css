@@ -1,0 +1,35 @@
+.navbar-brand{
+    color: #dbd4d4d9;
+    font-size: 25px;
+    
+}
+.navbar{
+    width: 100%;
+    background-color: #dbd4d4d9;
+    /*
+    position: fixed;
+    z-index: 1;*/
+}
+.carousel-item > img{
+
+    height: 100%;
+    object-fit:cover;
+    
+}
+main.container-fluid{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.z-index{
+  z-index: 5;
+  background-color: rgba(70, 70, 70, .7);
+  border-radius: 5px;
+}
+.logoAG{
+    font-size: 40px;
+    color: rgb(33, 93, 72);
+}
+.logoCollection{
+    color: rgb(105, 142, 128);
+}
